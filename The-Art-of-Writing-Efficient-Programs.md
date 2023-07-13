@@ -231,7 +231,7 @@ C++社区的活跃成员。
 
 2010年进行了设计、模拟或验证某一特定微芯片的计算，此后每年都运行相同的计算量，我们会看到这样的结果:
 
-!\[image](content/1/chapter1/images/2.jpg)\
+![image](content/1/chapter1/images/2.jpg)\
 图1.2 - 这些年来对于特定的EDA计算的处理时间，以小时为单位，
 
 
